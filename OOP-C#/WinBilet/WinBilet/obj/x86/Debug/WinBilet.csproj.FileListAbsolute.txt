@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\bin\Debug\WinBilet.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\bin\Debug\WinBilet.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\obj\x86\Debug\WinBilet.Form2.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\bin\Debug\WinBilet.exe.CodeAnalysisLog.xml
+C:\Users\LENOVO\Documents\VS10Projects\WinBilet\WinBilet\bin\Debug\WinBilet.exe.lastcodeanalysissucceeded

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\bin\Debug\WinStruct.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\bin\Debug\WinStruct.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\obj\x86\Debug\WinStruct.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\obj\x86\Debug\WinStruct.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\obj\x86\Debug\WinStruct.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\obj\x86\Debug\WinStruct.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinStruct\WinStruct\obj\x86\Debug\WinStruct.pdb

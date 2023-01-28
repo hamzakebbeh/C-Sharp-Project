@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\bin\Debug\WinMDINotepad.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\bin\Debug\WinMDINotepad.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\obj\x86\Debug\WinMDINotepad.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\obj\x86\Debug\WinMDINotepad.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\obj\x86\Debug\WinMDINotepad.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\obj\x86\Debug\WinMDINotepad.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinMDINotepad\WinMDINotepad\obj\x86\Debug\WinMDINotepad.pdb

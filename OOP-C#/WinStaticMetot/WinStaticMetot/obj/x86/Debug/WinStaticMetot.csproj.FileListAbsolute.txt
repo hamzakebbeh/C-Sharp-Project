@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\bin\Debug\WinStaticMetot.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\bin\Debug\WinStaticMetot.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\obj\x86\Debug\WinStaticMetot.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\obj\x86\Debug\WinStaticMetot.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\obj\x86\Debug\WinStaticMetot.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\obj\x86\Debug\WinStaticMetot.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinStaticMetot\WinStaticMetot\obj\x86\Debug\WinStaticMetot.pdb

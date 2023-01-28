@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\obj\x86\Debug\WinConstructor.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\obj\x86\Debug\WinConstructor.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\obj\x86\Debug\WinConstructor.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\bin\Debug\WinConstructor.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\bin\Debug\WinConstructor.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\obj\x86\Debug\WinConstructor.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinConstructor\WinConstructor\obj\x86\Debug\WinConstructor.pdb

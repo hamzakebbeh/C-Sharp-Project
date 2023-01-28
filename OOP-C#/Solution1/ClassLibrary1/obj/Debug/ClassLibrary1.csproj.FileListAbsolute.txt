@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\bin\Debug\WinInternal.exe
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\bin\Debug\WinInternal.pdb
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\LENOVO\Documents\VS10Projects\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

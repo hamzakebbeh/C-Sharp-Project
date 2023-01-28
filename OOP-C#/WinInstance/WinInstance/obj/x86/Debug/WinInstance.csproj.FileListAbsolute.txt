@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\bin\Debug\WinInstance.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\bin\Debug\WinInstance.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.Form2.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinInstance\WinInstance\obj\x86\Debug\WinInstance.pdb

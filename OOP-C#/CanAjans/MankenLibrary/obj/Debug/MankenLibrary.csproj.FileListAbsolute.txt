@@ -1,0 +1,4 @@
+C:\Users\90533\OneDrive\Desktop\Nesne Tabanlı Derste Yapılan Örnekler\CanAjans\MankenLibrary\obj\Debug\MankenLibrary.csproj.AssemblyReference.cache
+C:\Users\90533\OneDrive\Desktop\Nesne Tabanlı Derste Yapılan Örnekler\CanAjans\MankenLibrary\obj\Debug\MankenLibrary.MankenForm.resources
+C:\Users\90533\OneDrive\Desktop\Nesne Tabanlı Derste Yapılan Örnekler\CanAjans\MankenLibrary\obj\Debug\MankenLibrary.csproj.GenerateResource.cache
+C:\Users\90533\OneDrive\Desktop\Nesne Tabanlı Derste Yapılan Örnekler\CanAjans\MankenLibrary\obj\Debug\MankenLibrary.csproj.CoreCompileInputs.cache

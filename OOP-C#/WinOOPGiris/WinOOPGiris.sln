@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOOPGiris", "WinOOPGiris\WinOOPGiris.csproj", "{490C525F-63B7-403E-8256-91AE07CC6DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490C525F-63B7-403E-8256-91AE07CC6DE5}.Debug|x86.ActiveCfg = Debug|x86
+		{490C525F-63B7-403E-8256-91AE07CC6DE5}.Debug|x86.Build.0 = Debug|x86
+		{490C525F-63B7-403E-8256-91AE07CC6DE5}.Release|x86.ActiveCfg = Release|x86
+		{490C525F-63B7-403E-8256-91AE07CC6DE5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

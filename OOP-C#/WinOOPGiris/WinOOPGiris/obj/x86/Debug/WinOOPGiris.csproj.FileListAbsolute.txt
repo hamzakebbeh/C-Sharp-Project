@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\bin\Debug\WinOOPGiris.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\bin\Debug\WinOOPGiris.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\obj\x86\Debug\WinOOPGiris.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\obj\x86\Debug\WinOOPGiris.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\obj\x86\Debug\WinOOPGiris.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\obj\x86\Debug\WinOOPGiris.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinOOPGiris\WinOOPGiris\obj\x86\Debug\WinOOPGiris.pdb

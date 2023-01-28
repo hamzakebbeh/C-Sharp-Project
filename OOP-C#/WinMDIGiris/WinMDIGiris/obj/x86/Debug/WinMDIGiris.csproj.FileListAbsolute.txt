@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\bin\Debug\WinMDIGiris.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\bin\Debug\WinMDIGiris.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.frmEkle.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.frmGoster.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.frmGuncelle.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinMDIGiris\WinMDIGiris\obj\x86\Debug\WinMDIGiris.frmSil.resources

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\bin\Debug\WinEnumeration.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\bin\Debug\WinEnumeration.pdb
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\obj\x86\Debug\WinEnumeration.Form1.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\obj\x86\Debug\WinEnumeration.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\obj\x86\Debug\WinEnumeration.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\obj\x86\Debug\WinEnumeration.exe
+C:\Users\LENOVO\Documents\VS10Projects\WinEnumeration\WinEnumeration\obj\x86\Debug\WinEnumeration.pdb
